@@ -28,7 +28,13 @@
 .name-title {
   font-family:'Times New Roman', Times, serif;
 }
-
+.title-line{
+   width: 150px;
+   height: 2px;
+   background-color: white;
+   border: none;
+   margin: 10px auto;
+}
 .header {
   display: flex;
   flex-direction: column;  /* Stack name and navbar vertically */
