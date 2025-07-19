@@ -29,20 +29,6 @@
   font-family:'Times New Roman', Times, serif;
 }
 
-    nav a {
-      margin-left: 1.5rem;
-      text-decoration: none;
-      color: #ccc;
-      transition: color 0.3s ease;
-    }
-
-    nav a:hover {
-      color: #c4b4b4;
-    }
-
-    font-size: 18px;
-}
-
 .navbar {
   display: flex;
   justify-content: flex-end;
@@ -63,12 +49,6 @@
   color: red;        
 }
 
-
-  .navbar a {
-    font-size: 20px;
-    color: white;
-  }
-}
     .hero {
       display: flex;
       flex-direction: column;
