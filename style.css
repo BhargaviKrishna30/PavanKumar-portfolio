@@ -34,7 +34,7 @@
   flex-direction: column;  /* Stack name and navbar vertically */
   align-items: center;
   text-align: center;
-  padding: 20px;
+  padding: 10px;
 }
 
 .navbar {
